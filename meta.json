@@ -1,0 +1,22 @@
+{
+    "name": "Some txt",
+    "symbol": "txt",
+    "description": "Some text",
+    "seller_fee_basis_points": 1,
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
+    "external_url": "https://google.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "4qfzYk114Zo8YmnkPK8GxAeZw6ojZWG7RR1UXtt4hNCF",
+                "share": 100
+            }
+        ]
+    }
+}
