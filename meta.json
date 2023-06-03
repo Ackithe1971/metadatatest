@@ -12,6 +12,10 @@
                 "type": "image/png"
             }
         ],
+        "collection": {
+        "name": "Solflare X NFT",
+        "family": "Solflare"
+        },
         "creators": [
             {
                 "address": "4qfzYk114Zo8YmnkPK8GxAeZw6ojZWG7RR1UXtt4hNCF",
